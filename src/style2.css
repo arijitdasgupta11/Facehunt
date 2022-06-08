@@ -1,0 +1,74 @@
+body {
+    background: #171544;
+    border-radius: 10px;
+    font-family: "Raleway", sans-serif;
+  }
+  h3{
+    text-align: center;
+    margin: 10px;
+    color: #aed8ea;
+  }
+  h2 {
+    text-align: center;
+    margin: 20px 0;
+    color: white;
+  }
+  .textLeft {
+    text-align: left;
+  }
+  .loadingDiv {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+ 
+  .ml-5{
+    margin:20px 55px !important;
+    /* margin-right: 55px !important; */
+  }
+  .card2 {
+    display: inline-block;
+    width: 130px;
+    margin: 25px 25px;
+  }
+  .image {
+    min-width: 155px;
+    margin-right: 20px;
+  }
+  .stats {
+    background: #f2f5f8 !important;
+    color: #000 !important;
+  }
+  .bio {
+    font-size: 12px;
+    display: block;
+    color: #ffffff;
+    font-weight: 700;
+  }
+  
+  .name {
+    position: absolute;
+    /* bottom: 0; */
+    left: auto;
+    right: auto;
+    font-size: 15px;
+    color: #242424;
+    background-color: white;
+
+  }
+  
+  .gender {
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    /* background-color: white; */
+  }
+  
+  .rounded2
+  {
+      position: relative;
+      height: 130px;
+      width: 120px;
+      border-radius: 5px;
+
+  }
